@@ -6,7 +6,7 @@ This reporsitory contains the list📋 of resource necessary to get started in b
 ## Table of Contents:
 
 - [Basics 🏁](/Resources/basics.md)
-- [Introduction to Web 🌐]()
+- [Introduction to Web 🌐](/Resources/intro-to-web.md)
 - [Linux 🐧]()
 - [Servers 🖥️]()
 - [Programming 🤖]()
